@@ -1,7 +1,7 @@
 # Site settings
 title: Gaogao's Blog
 SEOTitle: 高高的博客 | My Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/title.jpg
 email: gyw0228@163.com
 description: "Every failure is leading towards success."
 keyword: "lol, tensorflow, 高高的博客, 小高, 高瑗蔚, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/touxiang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
